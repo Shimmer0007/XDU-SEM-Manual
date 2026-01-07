@@ -1,0 +1,355 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.97.1",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "Ywmmp1Sc4xjO",
+			"notePath": [
+				"Ywmmp1Sc4xjO"
+			],
+			"title": "电子商务安全",
+			"notePosition": 10,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [],
+			"format": "markdown",
+			"attachments": [],
+			"dirFileName": "电子商务安全",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "kJW4CeYJVwvx",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"kJW4CeYJVwvx"
+					],
+					"title": "第一章 电子商务安全概述",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第一章 电子商务安全概述.md",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "0GowWzxrPBfu",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"0GowWzxrPBfu"
+					],
+					"title": "第二章密码学基础1——概述.pdf",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第二章密码学基础1——概述.pdf.md",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "Y0FNCNHPSPWY",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"Y0FNCNHPSPWY"
+					],
+					"title": "第二章密码学基础2——单钥密码体制",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第二章密码学基础2——单钥密码体制.md",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "e32A45MDsGii",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"e32A45MDsGii"
+					],
+					"title": "第二章密码学基础3——公钥密码体制",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第二章密码学基础3——公钥密码体制.md",
+					"attachments": [
+						{
+							"attachmentId": "aV70LBZwf1K1",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "第二章密码学基础3——公钥密码体制_image.png"
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "4cZgzIq40sNp",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"4cZgzIq40sNp"
+					],
+					"title": "第三章 信息系统安全体系",
+					"notePosition": 60,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第三章 信息系统安全体系.md",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "x567JktBwATa",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"x567JktBwATa"
+					],
+					"title": "第四章 访问控制与安全审计",
+					"notePosition": 70,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第四章 访问控制与安全审计.md",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "V0VHqgSFTa4k",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"V0VHqgSFTa4k"
+					],
+					"title": "第五章信息安全评估",
+					"notePosition": 80,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第五章信息安全评估.md",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "A7ZiwIVLCHrY",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"A7ZiwIVLCHrY"
+					],
+					"title": "第六章 电子商务法律法规",
+					"notePosition": 90,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第六章 电子商务法律法规.md",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "rqjV1yDkNrCb",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"rqjV1yDkNrCb"
+					],
+					"title": "第二章 密码学基础4——认证理论与技术",
+					"notePosition": 100,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第二章 密码学基础4——认证理论与技术.md",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "nNPN7l9HOcNr",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"nNPN7l9HOcNr"
+					],
+					"title": "第二章 密码学基础5——PKI",
+					"notePosition": 110,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第二章 密码学基础5——PKI.md",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "QT27u2GkY4YG",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"QT27u2GkY4YG"
+					],
+					"title": "第二章密码学基础6——安全协议",
+					"notePosition": 120,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第二章密码学基础6——安全协议.md",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "FHUi0v8BlsAs",
+					"notePath": [
+						"Ywmmp1Sc4xjO",
+						"FHUi0v8BlsAs"
+					],
+					"title": "第三四五章重点",
+					"notePosition": 130,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "markdown",
+					"dataFileName": "第三四五章重点.md",
+					"attachments": [
+						{
+							"attachmentId": "1F2dm6VNWISS",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "46dBQHWlxi8g",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "5msiBRuCMnsY",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "AozhQyrMTHQU",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "AQbdP7muEsmR",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "4_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "E9xogARUSCQ5",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "5_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "FjCYtyoqOrPX",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "6_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "JlWOM3Z20f4F",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "7_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "wEUHpsmFO0oT",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "8_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "wHKhLYJuu6p4",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "9_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "xFQJTQBr1spI",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "10_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "XKc0w4DE5xQn",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "11_第三四五章重点_image.png"
+						},
+						{
+							"attachmentId": "YGT8RwoSfdU4",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "12_第三四五章重点_image.png"
+						}
+					]
+				}
+			]
+		}
+	]
+}
